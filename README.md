@@ -13,9 +13,13 @@ Link to "Pick Your Plate":  https://jvgh.github.io/Project-1/
 
 Enjoy cooking!
 
+
 Contributors:
 
 Jonathan Palomino
+
 David Boyce
+
 Andrea Fernandez Livia
+
 Jim V
